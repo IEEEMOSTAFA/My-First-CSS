@@ -1,0 +1,58 @@
+.header{
+    height: 300px;
+    /* background-color: bisque; */
+    /* background-image: url('sk\,photo.jpg'); */
+
+    /* background-image: url('../styles/Fsa\ tour.jpg'); */
+    background-image: url('../Mockup.jpg');
+    /* background-image: url('Logo/IEEE.jpg'); */
+    /* background-image: url('../Lorem.jpg'); */
+
+
+    /* background-repeat: no-repeat; */
+     /* background-repeat: repeat-x; */
+     /* background-repeat: repeat-y; */
+     /* background-size: auto; */
+     /* background-size: cover; dile poru chobi dekte parbo */
+     /* background-size: cover; */
+     /* background-size: contain; */
+     /* background-size: 200px; */
+
+
+}
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    /* text-decoration:underline; */
+    /* background-color: yellow;
+    border-radius: 10px; */
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    /* margin: 40px; */
+    border: 10px solid yellow;
+    box-shadow: 10px 10px 20px rgb(112, 23, 195);
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+
+}
+.incident{
+    border:1px solid purple ;
+    /* display: block;
+    height: 200px; */
+    /* margin: 20px; */
+    /* padding: 20px; */
+    display: inline-block;
+}
+li{
+    display: inline;
+}
+
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+    display: inline-block;
+}
